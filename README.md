@@ -13,7 +13,7 @@ Some misspelled icon names fixed.
 Download the [compressed archive](theme/breeze-tokyonight.tar.gz).\
 Extract the archive in your themes folder (~/.claws-mail/themes or /usr/share/claws-mail/themes).\
 In Claws-Mail select Configuration -> Settings -> Themes and choose "breeze-tokyonight.
-## Screenshots
+## How does it look like
 
 
 <img width="1716" height="993" alt="claws-mail tokyonight" src="https://github.com/user-attachments/assets/bc5c9027-c178-4d93-9309-970aa610a61a" />
