@@ -1,6 +1,6 @@
 # Breeze Tokyo Night for Claws-Mail
 ## About
-This is the "Breeze Tokyo Night" theme for Claws Mail.
+This is the "Breeze Tokyo Night" icon theme for Claws Mail.
 This theme is a modification of the original "Breeze" 
 theme for Claws-Mail designed by Andreas Kainz
 
