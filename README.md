@@ -9,10 +9,6 @@ Changes to the original theme:\
 IMAP icons added.\
 Zoom icons added.\
 Some misspelled icon names fixed.
-## Installation
-Download the [compressed archive](theme/breeze-tokyonight.tar.gz).\
-Extract the archive in your themes folder (~/.claws-mail/themes or /usr/share/claws-mail/themes).\
-In Claws-Mail select Configuration -> Settings -> Themes and choose "breeze-tokyonight.
 ## How does it look like
 
 
@@ -26,6 +22,10 @@ In Claws-Mail select Configuration -> Settings -> Themes and choose "breeze-toky
 
 <img width="1388" height="903" alt="claws-mail TN icons" src="https://github.com/user-attachments/assets/c20f05fa-d8a5-48b5-a4bb-204f4308168f" />
 
+## Installation
+Download the [compressed archive](theme/breeze-tokyonight.tar.gz).\
+Extract the archive in your themes folder (~/.claws-mail/themes or /usr/share/claws-mail/themes).\
+In Claws-Mail select Configuration -> Settings -> Themes and choose "breeze-tokyonight.
 ## License
 This work is licensed under the General Public License (GPL).
 
